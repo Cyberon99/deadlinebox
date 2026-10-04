@@ -343,12 +343,7 @@ No backend installation is required.
 🌐 Live Demo
 
 Live Website:
-
-PASTE YOUR VERCEL URL HERE
-
-Example:
-
-https://deadlinebox-example.vercel.app
+https://deadlinebox.vercel.app/
 
 ---
 
